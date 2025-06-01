@@ -1,17 +1,23 @@
 # Théophile Gousselot
 
 
+
+[🇫🇷 Français](#soutenance-de-thèse)
+
+[🇬🇧 English](#phd-defense)
+
+
+
 ## Soutenance de thèse
 
-**Mécanismes de sécurité d’un processeur RISC-V face aux attaques par injection de fautes**
+**« Mécanismes de sécurité d’un processeur RISC-V face aux attaques par injection de fautes »**
 
 
-### Informations
+### Informations:
 - mercredi 18 juin 2025 à 9h30
-- Gardanne, Grand Amphithéâtre du Campus Aix-Marseille Provence de l'École des Mines de Saint-Étienne (880 route de Mimet, 13541, Gardanne)
+- Gardanne, « Amphi 1 » du Campus Aix-Marseille Provence de l'École des Mines de Saint-Étienne (880 route de Mimet, 13541, Gardanne)
 
 ### Visioconférence / Videoconference
-
 [https://zoom.us/j/540664269](https://zoom.us/j/540664269)
 
 ### Manuscrit
@@ -41,16 +47,21 @@ Le second modèle de menace aborde les attaques physiques invasives dans le cadr
 
 L’ensemble des contremesures introduites au cours de ce travail de thèse ont été implémentées dans un processeur RISC-V (CV32E40P) sur FPGA. Elles ont été validées tout au long du flot de conception afin de proposer des démonstrateurs fonctionnels. Les diverses injections de fautes envisagées ont été mises en œuvre en simulation et émulées sur FPGA. L’ensemble de ces travaux sont partagés en libre accès. 
 
+
+
+### Financement
+Ce travail a bénéficié d’une aide de l’État gérée par l’Agence Nationale de la Recherche au titre de France 2030 au sein du projet ARSENE portant la référence ANR-22-PECY-0004.
+
 ---
 
 
 ## PhD Defense
 
-**Security Mechanisms in a RISC-V Processor Against Fault Injection Attacks**
+**"Security Mechanisms in a RISC-V Processor Against Fault Injection Attacks"**
 
 ### Detail
 - Wednesday, 18 June 2025, at 9:30 am
-- Gardanne, in the Grand Amphithéâtre at the École des Mines de Saint-Étienne, Centre Microélectronique de Provence, Campus Aix-Marseille-Provence, located at 880 Avenue de Mimet, 13120 Gardanne
+- Gardanne, in the amphitheater of the École des Mines de Saint-Étienne, Centre Microélectronique de Provence, Campus Aix-Marseille-Provence, located at 880 Avenue de Mimet, 13120 Gardanne
 - The defence will be conducted in French.
 
 
@@ -88,3 +99,22 @@ The first addresses fault injections targeting control signals of the microarchi
 The second threat model deals with invasive physical attacks to achieve a linear code extraction. An attacker identifies and places eavesdropping microprobes on the instruction bus. By strategically deploying additional microprobes to tamper with the microarchitecture, he forces the linear flow of code on the instruction bus. First, we assess the complexity of performing an LCE on RISC-V processors. Secondly, we introduce three lightweight countermeasures that drastically increase the number of microprobes to be placed in parallel on the embedded system.
 
 All the countermeasures introduced in this work have been implemented in a RISC-V processor (CV32E40P) on FPGA. They were tested and validated at each stage of the design flow to provide functional FPGA demonstrators. Various fault injections were conducted through simulation and emulated on FPGA. All of this work is freely accessible.
+
+
+
+
+
+## Funding
+
+
+The ARSENE project was funded by the “France 2030” government investment plan managed by the French National Research Agency, under the reference “ANR-22-PECY-0004”.
+
+<!---
+<p align="center">
+    <img src="doc/logo_arsene_name.png" alt="drawing" width="80" class="center"/>
+    <img src="doc/logo_france2023_color.png" alt="drawing" width="80" class="center"/>
+    <img src="doc/emse_imt.png" alt="drawing" width="80" class="center"/>
+</p>
+-->
+
+
