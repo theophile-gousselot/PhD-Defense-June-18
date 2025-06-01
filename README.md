@@ -2,9 +2,9 @@
 
 
 
-[🇫🇷 Français](#soutenance-de-thèse)
+🇫🇷 [Français](#soutenance-de-thèse)
 
-[🇬🇧 English](#phd-defense)
+🇬🇧 [English](#phd-defense)
 
 
 
