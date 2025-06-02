@@ -28,7 +28,7 @@
 | Paolo MAISTRI        | Chargé de recherche, CNRS, Laboratoire TIMA               | Rapporteur   |
 | Pascal BENOIT        | Professeur des universités, Université de Montpellier     | Examinateur  |
 | David HÉLY           | Professeur des universités, Universités Grenoble INP, UGA | Examinateur  |
-| Karine HEYDMANN      | Experte en sécurité, Thalès DIS                           | Examinatrice |
+| Karine HEYDMANN      | Experte sécurité, Thales DIS - Sorbonne Université        | Examinatrice |
 | Jean-Baptiste RIGAUD | Professeur, Mines de Saint-Étienne                        | Directeur    |
 | Jean-Max DUTERTRE    | Professeur, Mines de Saint-Étienne                        | Co-directeur |
 | Olivier POTIN        | Maître Assistant, Mines de Saint-Étienne                  | Encadrant    |
@@ -76,7 +76,7 @@ Ce travail a bénéficié d’une aide de l’État gérée par l’Agence Natio
 | Paolo MAISTRI        | Chargé de recherche, CNRS, Laboratoire TIMA               | Reviewer     |
 | Pascal BENOIT        | Professeur des universités, Université de Montpellier     | Examiner     |
 | David HÉLY           | Professeur des universités, Universités Grenoble INP, UGA | Examiner     |
-| Karine HEYDMANN      | Experte en sécurité, Thalès DIS                           | Examiner     |
+| Karine HEYDMANN      | Experte sécurité, Thales DIS - Sorbonne Université        | Examiner     |
 | Jean-Baptiste RIGAUD | Professeur, Mines de Saint-Étienne                        | Thesis supervisor    |
 | Jean-Max DUTERTRE    | Professeur, Mines de Saint-Étienne                        | Thesis supervisor    |
 | Olivier POTIN        | Maître Assistant, Mines de Saint-Étienne                  | Thesis supervisor    |
