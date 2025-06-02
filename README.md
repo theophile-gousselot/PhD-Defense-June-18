@@ -20,10 +20,6 @@
 ### Visioconférence / Videoconference
 [https://zoom.us/j/540664269](https://zoom.us/j/540664269)
 
-### Manuscrit
-
-[https://seafile.emse.fr/d/d3c0ee3dcf604fa68fda/](https://seafile.emse.fr/d/d3c0ee3dcf604fa68fda/)
-
 ### Défense de Thèse / PhD Defense
 
 | Jury                 |                                                           |              |
@@ -70,10 +66,6 @@ Ce travail a bénéficié d’une aide de l’État gérée par l’Agence Natio
 
 [https://zoom.us/j/540664269](https://zoom.us/j/540664269)
 
-
-### Manuscript
-
-[https://seafile.emse.fr/d/d3c0ee3dcf604fa68fda/](https://seafile.emse.fr/d/d3c0ee3dcf604fa68fda/)
 
 ### Jury
 
